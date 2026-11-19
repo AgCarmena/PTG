@@ -4,5 +4,35 @@
     "name": "PRUEBA",
     "army": "",
     "campaignId": "bb123655-8c51-44c3-b924-f0c3b9e34662"
+  },
+  {
+    "id": "4e3d93ed-b64c-4292-a49a-c3dcaf43db1f",
+    "name": "PRUEBA LISTA",
+    "playerName": "ALE",
+    "faction": "Cities of Sigmar",
+    "campaignId": "bb123655-8c51-44c3-b924-f0c3b9e34662",
+    "campaignName": "PRUEBA",
+    "points": 240,
+    "regiments": [
+      {
+        "hero": null,
+        "units": [
+          {
+            "id": "5fac-f8bc-2c88-9252",
+            "name": "Freeguild Fusiliers",
+            "points": 120,
+            "hero": false,
+            "unique": false
+          },
+          {
+            "id": "e0b6-cd1a-833e-3ff3",
+            "name": "Black Ark Corsairs",
+            "points": 120,
+            "hero": false,
+            "unique": false
+          }
+        ]
+      }
+    ]
   }
 ]
