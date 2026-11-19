@@ -257,5 +257,221 @@
         "path": ""
       }
     ]
+  },
+  {
+    "id": "3383e25e-d4ae-4fd2-af94-a01d5ce16a59",
+    "name": "Nurgle",
+    "playerName": "Chamorro",
+    "faction": "Maggotkin of Nurgle",
+    "campaignId": "6773d011-4c5e-42d7-8fb5-fa9bdec0b426",
+    "campaignName": "El ocaso de los malditos",
+    "points": 290,
+    "gp": 0,
+    "units": [
+      {
+        "id": "3226-6035-594a-b682",
+        "name": "Festus the Leechlord",
+        "points": 290,
+        "hero": true,
+        "unique": true,
+        "categories": [
+          "HERO",
+          "UNIQUE",
+          "CHAOS",
+          "MAGGOTKIN OF NURGLE",
+          "DAEMON",
+          "MONSTER",
+          "WIZARD (2)",
+          "WARD (5+)"
+        ],
+        "profiles": [
+          {
+            "name": "Battle Damaged",
+            "type": "Ability (Passive)",
+            "characteristics": [
+              {
+                "name": "Keywords",
+                "value": ""
+              },
+              {
+                "name": "Effect",
+                "value": "While this unit has 10 or more damage points, the Attacks characteristic of **Gathoblyt's Fanged Maw** is 3."
+              }
+            ]
+          },
+          {
+            "name": "Festus the Leechlord",
+            "type": "Unit",
+            "characteristics": [
+              {
+                "name": "Move",
+                "value": "5\""
+              },
+              {
+                "name": "Health",
+                "value": "14"
+              },
+              {
+                "name": "Save",
+                "value": "4+"
+              },
+              {
+                "name": "Control",
+                "value": "5"
+              }
+            ]
+          },
+          {
+            "name": "Vile Poisons and Debilitating Toxins",
+            "type": "Ability (Activated)",
+            "characteristics": [
+              {
+                "name": "Timing",
+                "value": "Once Per Turn (Army), Any Combat Phase"
+              },
+              {
+                "name": "Declare",
+                "value": "If this unit did not charge this turn, pick an enemy unit in combat with it to be the target. You cannot pick a **^^Manifestation^^** or terrain feature."
+              },
+              {
+                "name": "Effect",
+                "value": "You and your opponent must roll off. Add this unit's Control characteristic to your roll and the target's Control characteristic to your opponent's roll. If your roll is higher, apply the corresponding effect:\n• If the target is a **^^Hero^^** or **^^Monster^^**, inflict an amount of mortal damage on the target equal to the difference between your roll and your opponent's roll.\n• If the target is a non-**^^Hero^^** non-**^^Monster^^** unit, 1 model in the target unit is slain."
+              },
+              {
+                "name": "Keywords",
+                "value": "**^^Rampage^^**"
+              },
+              {
+                "name": "Used By",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "name": "Annelid Engorgement",
+            "type": "Ability (Activated)",
+            "characteristics": [
+              {
+                "name": "Timing",
+                "value": "End of Any Turn"
+              },
+              {
+                "name": "Declare",
+                "value": ""
+              },
+              {
+                "name": "Effect",
+                "value": "For each enemy unit that was in combat with this unit this turn and was destroyed this turn, this unit gains D3 **leech points** for the rest of the battle. Until the end of the next turn, add 1 to this unit's Control characteristic for each leech point it currently has."
+              },
+              {
+                "name": "Keywords",
+                "value": ""
+              },
+              {
+                "name": "Used By",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "name": "The Leechlord's Curse",
+            "type": "Ability (Spell)",
+            "characteristics": [
+              {
+                "name": "Timing",
+                "value": "Your Hero Phase"
+              },
+              {
+                "name": "Casting Value",
+                "value": "6"
+              },
+              {
+                "name": "Declare",
+                "value": "Pick a visible enemy unit within 18\" of this unit to be the target, then make a casting roll of 2D6."
+              },
+              {
+                "name": "Effect",
+                "value": "This unit gains 1 **leech point** for the rest of the battle. Until the start of your next turn, each time the target uses a **^^Core^^** ability or command, after that ability has been resolved, roll a dice. On a 3+, inflict 1 mortal damage on the target. Then, if any damage points were allocated to the target by this ability, **Heal (1)** this unit."
+              },
+              {
+                "name": "Keywords",
+                "value": "**^^Spell^^**"
+              }
+            ]
+          },
+          {
+            "name": "Gnarled Plague Staff",
+            "type": "Melee Weapon",
+            "characteristics": [
+              {
+                "name": "Atk",
+                "value": "3"
+              },
+              {
+                "name": "Hit",
+                "value": "3+"
+              },
+              {
+                "name": "Wnd",
+                "value": "3+"
+              },
+              {
+                "name": "Rnd",
+                "value": "1"
+              },
+              {
+                "name": "Dmg",
+                "value": "D3"
+              },
+              {
+                "name": "Ability",
+                "value": "Crit (Auto-wound)"
+              }
+            ]
+          },
+          {
+            "name": "Gathoblyt's Fanged Maw",
+            "type": "Melee Weapon",
+            "characteristics": [
+              {
+                "name": "Atk",
+                "value": "4"
+              },
+              {
+                "name": "Hit",
+                "value": "4+"
+              },
+              {
+                "name": "Wnd",
+                "value": "2+"
+              },
+              {
+                "name": "Rnd",
+                "value": "2"
+              },
+              {
+                "name": "Dmg",
+                "value": "3"
+              },
+              {
+                "name": "Ability",
+                "value": "Crit (Mortal), Companion"
+              }
+            ]
+          }
+        ],
+        "rules": [
+          {
+            "name": "Base Size",
+            "description": "150x95mm"
+          }
+        ],
+        "reinforced": false,
+        "rp": 0,
+        "path": "",
+        "pathGp": 0,
+        "pathChoice": ""
+      }
+    ]
   }
 ]
