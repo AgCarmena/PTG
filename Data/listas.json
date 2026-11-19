@@ -57,5 +57,53 @@
         ]
       }
     ]
+  },
+  {
+    "id": "96560411-a5c9-4da4-bbda-dcda956df2d7",
+    "name": "efgaf",
+    "playerName": "awaf",
+    "faction": "Seraphon",
+    "campaignId": "5c03bb73-5c80-48fb-a8af-d80c15efbd05",
+    "campaignName": "el ocaso de los malditos",
+    "points": 250,
+    "regiments": [
+      {
+        "hero": {
+          "id": "cde3-25dc-fe17-858c",
+          "name": "Skink Starseer",
+          "points": 140,
+          "hero": true,
+          "unique": false,
+          "categories": [
+            "HERO",
+            "ORDER",
+            "SERAPHON",
+            "SKINK",
+            "INFANTRY",
+            "WIZARD (2)",
+            "FLY"
+          ]
+        },
+        "units": [
+          {
+            "id": "e16-5c12-f381-3006",
+            "name": "Saurus Guard",
+            "points": 110,
+            "hero": false,
+            "unique": false,
+            "categories": [
+              "CHAMPION",
+              "SERAPHON",
+              "SAURUS",
+              "ORDER",
+              "INFANTRY",
+              "STANDARD BEARER (1/5)",
+              "MUSICIAN (1/5)"
+            ],
+            "reinforced": false
+          }
+        ]
+      }
+    ]
   }
 ]
