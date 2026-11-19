@@ -57,5 +57,52 @@
         ]
       }
     ]
+  },
+  {
+    "id": "b669a2ad-8488-480f-9c81-00c7fba9d0e6",
+    "name": "otra",
+    "playerName": "Ale",
+    "faction": "Blades of Khorne",
+    "campaignId": "5c03bb73-5c80-48fb-a8af-d80c15efbd05",
+    "campaignName": "el ocaso de los malditos",
+    "points": 320,
+    "regiments": [
+      {
+        "hero": {
+          "id": "1c5f-4b09-e2da-7a0c",
+          "name": "Herald of Khorne on Blood Throne",
+          "points": 150,
+          "hero": true,
+          "unique": false,
+          "categories": [
+            "HERO",
+            "CHAOS",
+            "DAEMON",
+            "BLADES OF KHORNE",
+            "PRIEST (1)",
+            "WAR MACHINE",
+            "WARD (6+)"
+          ]
+        },
+        "units": [
+          {
+            "id": "60f-d859-6aac-6dc6",
+            "name": "Skullreapers",
+            "points": 170,
+            "hero": false,
+            "unique": false,
+            "categories": [
+              "CHAOS",
+              "CHAMPION",
+              "BLOODBOUND",
+              "INFANTRY",
+              "STANDARD BEARER (1/5)",
+              "BLADES OF KHORNE"
+            ],
+            "reinforced": false
+          }
+        ]
+      }
+    ]
   }
 ]
