@@ -191,5 +191,71 @@
         "path": ""
       }
     ]
+  },
+  {
+    "id": "4ee46386-d8f3-45b7-a5cf-f45e405e5be0",
+    "name": "PRUEBA",
+    "playerName": "Mario",
+    "faction": "Daughters of Khaine",
+    "campaignId": "6773d011-4c5e-42d7-8fb5-fa9bdec0b426",
+    "campaignName": "El ocaso de los malditos",
+    "points": 400,
+    "gp": 0,
+    "units": [
+      {
+        "id": "1c2f-f798-5544-d556",
+        "name": "Blood Stalkers",
+        "points": 150,
+        "hero": false,
+        "unique": false,
+        "categories": [
+          "WARD (6+)",
+          "CHAMPION",
+          "ORDER",
+          "DAUGHTERS OF KHAINE",
+          "INFANTRY"
+        ],
+        "reinforced": false,
+        "rp": 0,
+        "path": ""
+      },
+      {
+        "id": "93e8-210a-cc3-ef22",
+        "name": "High Gladiatrix",
+        "points": 120,
+        "hero": true,
+        "unique": false,
+        "categories": [
+          "HERO",
+          "WARD (6+)",
+          "ORDER",
+          "DAUGHTERS OF KHAINE",
+          "AELF",
+          "INFANTRY"
+        ],
+        "reinforced": false,
+        "rp": 0,
+        "path": ""
+      },
+      {
+        "id": "e228-7274-8e97-b97f",
+        "name": "Slaughter Queen",
+        "points": 130,
+        "hero": true,
+        "unique": false,
+        "categories": [
+          "HERO",
+          "WARD (6+)",
+          "ORDER",
+          "DAUGHTERS OF KHAINE",
+          "PRIEST (1)",
+          "AELF",
+          "INFANTRY"
+        ],
+        "reinforced": false,
+        "rp": 0,
+        "path": ""
+      }
+    ]
   }
 ]
