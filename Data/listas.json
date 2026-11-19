@@ -57,5 +57,55 @@
         ]
       }
     ]
+  },
+  {
+    "id": "aeac5bf0-be18-40e8-876c-b93697df0000",
+    "name": "df<b",
+    "playerName": "tdfgrhnb",
+    "faction": "Seraphon",
+    "campaignId": "5c03bb73-5c80-48fb-a8af-d80c15efbd05",
+    "campaignName": "el ocaso de los malditos",
+    "points": 370,
+    "regiments": [
+      {
+        "hero": {
+          "id": "f354-afb4-3845-9bfe",
+          "name": "Slann Starmaster (Scourge of Aqshy)",
+          "points": 230,
+          "hero": true,
+          "unique": false,
+          "categories": [
+            "HERO",
+            "FLY",
+            "ORDER",
+            "WIZARD (3)",
+            "SERAPHON",
+            "SLANN",
+            "WARD (6+)",
+            "INFANTRY",
+            "WARMASTER"
+          ]
+        },
+        "units": [
+          {
+            "id": "f5a9-66a7-bb69-533f",
+            "name": "Saurus Warriors",
+            "points": 140,
+            "hero": false,
+            "unique": false,
+            "categories": [
+              "CHAMPION",
+              "SERAPHON",
+              "SAURUS",
+              "ORDER",
+              "STANDARD BEARER (1/10)",
+              "MUSICIAN (1/10)",
+              "INFANTRY"
+            ],
+            "reinforced": false
+          }
+        ]
+      }
+    ]
   }
 ]
