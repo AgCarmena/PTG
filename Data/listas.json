@@ -1,3 +1,120 @@
-[ 
- 
+[
+  {
+    "id": "2607b99a-2d45-48e4-b880-c6840c3527ba",
+    "name": "Nurgle prueba",
+    "playerName": "Chamorro",
+    "faction": "Maggotkin of Nurgle",
+    "campaignId": "6773d011-4c5e-42d7-8fb5-fa9bdec0b426",
+    "campaignName": "El ocaso de los malditos",
+    "points": 100,
+    "gp": 0,
+    "units": [
+      {
+        "id": "8fe7-5f8f-68ac-b786",
+        "name": "Rotbringer Sorcerer",
+        "points": 100,
+        "hero": true,
+        "categories": [
+          "HERO",
+          "CHAOS",
+          "MAGGOTKIN OF NURGLE",
+          "ROTBRINGERS",
+          "INFANTRY",
+          "WIZARD (1)",
+          "WARD (6+)"
+        ],
+        "profiles": [
+          {
+            "name": "Rotbringer Sorcerer",
+            "type": "Unit",
+            "characteristics": [
+              {
+                "name": "Move",
+                "value": "4\""
+              },
+              {
+                "name": "Health",
+                "value": "6"
+              },
+              {
+                "name": "Save",
+                "value": "5+"
+              },
+              {
+                "name": "Control",
+                "value": "2"
+              }
+            ]
+          },
+          {
+            "name": "Tainted Sorceries",
+            "type": "Ability (Activated)",
+            "characteristics": [
+              {
+                "name": "Timing",
+                "value": "Your Hero Phase"
+              },
+              {
+                "name": "Declare",
+                "value": "Pick an enemy unit that was picked to be the target of a spell that was successfully cast by this unit this phase to be the target."
+              },
+              {
+                "name": "Effect",
+                "value": "Roll a dice. On a 2+, subtract 1 from ward rolls for the target for the rest of the turn."
+              },
+              {
+                "name": "Keywords",
+                "value": ""
+              },
+              {
+                "name": "Used By",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "name": "Rotwood Staff",
+            "type": "Melee Weapon",
+            "characteristics": [
+              {
+                "name": "Atk",
+                "value": "3"
+              },
+              {
+                "name": "Hit",
+                "value": "4+"
+              },
+              {
+                "name": "Wnd",
+                "value": "3+"
+              },
+              {
+                "name": "Rnd",
+                "value": "1"
+              },
+              {
+                "name": "Dmg",
+                "value": "D3"
+              },
+              {
+                "name": "Ability",
+                "value": "-"
+              }
+            ]
+          }
+        ],
+        "rules": [
+          {
+            "name": "Base Size",
+            "description": "32mm"
+          }
+        ],
+        "reinforced": false,
+        "rp": 0,
+        "path": "",
+        "pathGp": 0,
+        "pathChoice": ""
+      }
+    ]
+  }
 ]
