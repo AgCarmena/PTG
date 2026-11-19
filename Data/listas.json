@@ -112,8 +112,8 @@
     "faction": "Helsmiths of Hashut",
     "campaignId": "6773d011-4c5e-42d7-8fb5-fa9bdec0b426",
     "campaignName": "El ocaso de los malditos",
-    "points": 570,
-    "gp": 0,
+    "points": 690,
+    "gp": 60,
     "units": [
       {
         "id": "a1f1-b30e-abe9-a234",
@@ -149,6 +149,24 @@
           "HELSMITHS OF HASHUT",
           "DUARDIN",
           "CHAMPION"
+        ],
+        "reinforced": false,
+        "rp": 0,
+        "path": ""
+      },
+      {
+        "id": "3203-cefc-0ca4-1251",
+        "name": "Ashen Elder",
+        "points": 120,
+        "hero": true,
+        "unique": false,
+        "categories": [
+          "HERO",
+          "CHAOS",
+          "HELSMITHS OF HASHUT",
+          "DUARDIN",
+          "INFANTRY",
+          "PRIEST (1)"
         ],
         "reinforced": false,
         "rp": 0,
