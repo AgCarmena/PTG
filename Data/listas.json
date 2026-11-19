@@ -57,54 +57,5 @@
         ]
       }
     ]
-  },
-  {
-    "id": "ff1a5e2a-cb38-4e15-b815-f1a69179abce",
-    "name": "ergas",
-    "playerName": "ga",
-    "faction": "Daughters of Khaine",
-    "campaignId": "5c03bb73-5c80-48fb-a8af-d80c15efbd05",
-    "campaignName": "el ocaso de los malditos",
-    "points": 340,
-    "regiments": [
-      {
-        "hero": {
-          "id": "9fbc-1533-9db5-1195",
-          "name": "Krethusa the Croneseer",
-          "points": 220,
-          "hero": true,
-          "unique": true,
-          "categories": [
-            "UNIQUE",
-            "HERO",
-            "ORDER",
-            "DAUGHTERS OF KHAINE",
-            "FLY",
-            "INFANTRY",
-            "AELF",
-            "PRIEST (2)",
-            "WARD (5+)"
-          ]
-        },
-        "units": [
-          {
-            "id": "c577-ce46-baff-3f1b",
-            "name": "Khainite Shadowstalkers (Scourge of Aqshy)",
-            "points": 120,
-            "hero": false,
-            "unique": false,
-            "categories": [
-              "WARD (6+)",
-              "ORDER",
-              "DAUGHTERS OF KHAINE",
-              "INFANTRY",
-              "AELF",
-              "CHAMPION (1/9)"
-            ],
-            "reinforced": false
-          }
-        ]
-      }
-    ]
   }
 ]
