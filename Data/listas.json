@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "2355d654-0f1c-4f1c-9758-e29564a739b7",
+    "name": "mardision",
+    "playerName": "prueba",
+    "faction": "Soulblight Gravelords",
+    "campaignId": "5c03bb73-5c80-48fb-a8af-d80c15efbd05",
+    "campaignName": "el ocaso de los malditos",
+    "points": 890,
+    "regiments": [
+      {
+        "hero": {
+          "id": "2438-c0b5-e74f-8ad6",
+          "name": "Belladamma Volga, First of the Vyrkos",
+          "points": 200,
+          "hero": true,
+          "unique": true,
+          "categories": [
+            "DEATH",
+            "HERO",
+            "UNIQUE",
+            "WARD (6+)",
+            "SOULBLIGHT GRAVELORDS",
+            "VAMPIRE",
+            "WIZARD (2)",
+            "CAVALRY"
+          ]
+        },
+        "units": [
+          {
+            "id": "39a-8a99-a014-7427",
+            "name": "Fell Bats",
+            "points": 90,
+            "hero": false,
+            "unique": false,
+            "categories": [
+              "DEATH",
+              "WARD (6+)",
+              "SOULBLIGHT GRAVELORDS",
+              "BEAST",
+              "DEADWALKERS",
+              "FLY"
+            ],
+            "reinforced": false
+          },
+          {
+            "id": "663e-ba88-e7a3-e042",
+            "name": "Dire Wolves",
+            "points": 150,
+            "hero": false,
+            "unique": false,
+            "categories": [
+              "DEATH",
+              "WARD (6+)",
+              "SOULBLIGHT GRAVELORDS",
+              "DEADWALKERS",
+              "BEAST",
+              "CHAMPION (1/10)"
+            ],
+            "reinforced": true
+          },
+          {
+            "id": "663e-ba88-e7a3-e042",
+            "name": "Dire Wolves",
+            "points": 150,
+            "hero": false,
+            "unique": false,
+            "categories": [
+              "DEATH",
+              "WARD (6+)",
+              "SOULBLIGHT GRAVELORDS",
+              "DEADWALKERS",
+              "BEAST",
+              "CHAMPION (1/10)"
+            ],
+            "reinforced": true
+          }
+        ]
+      }
+    ]
+  }
+]
