@@ -78,5 +78,64 @@
         ]
       }
     ]
+  },
+  {
+    "id": "6107336e-53f8-4b24-a1ae-f1d566c0cb3f",
+    "name": "MARDISION",
+    "playerName": "ALE",
+    "faction": "Helsmiths of Hashut",
+    "campaignId": "5c03bb73-5c80-48fb-a8af-d80c15efbd05",
+    "campaignName": "el ocaso de los malditos",
+    "points": 840,
+    "regiments": [
+      {
+        "hero": {
+          "id": "9d64-66aa-7eaa-7b55",
+          "name": "War Despot",
+          "points": 80,
+          "hero": true,
+          "unique": false,
+          "categories": [
+            "HERO",
+            "CHAOS",
+            "HELSMITHS OF HASHUT",
+            "DUARDIN",
+            "INFANTRY"
+          ]
+        },
+        "units": [
+          {
+            "id": "e20f-a1a4-79f8-93af",
+            "name": "Bull Centaurs",
+            "points": 190,
+            "hero": false,
+            "unique": false,
+            "categories": [
+              "CHAOS",
+              "HELSMITHS OF HASHUT",
+              "DUARDIN",
+              "CHAMPION",
+              "CAVALRY"
+            ],
+            "reinforced": true
+          },
+          {
+            "id": "e20f-a1a4-79f8-93af",
+            "name": "Bull Centaurs",
+            "points": 190,
+            "hero": false,
+            "unique": false,
+            "categories": [
+              "CHAOS",
+              "HELSMITHS OF HASHUT",
+              "DUARDIN",
+              "CHAMPION",
+              "CAVALRY"
+            ],
+            "reinforced": true
+          }
+        ]
+      }
+    ]
   }
 ]
