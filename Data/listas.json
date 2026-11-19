@@ -107,5 +107,52 @@
         ]
       }
     ]
+  },
+  {
+    "id": "978fe258-ac3b-4e97-bb75-40c06705c5ff",
+    "name": "Lagartos",
+    "playerName": "Mario",
+    "faction": "Seraphon",
+    "campaignId": "5c03bb73-5c80-48fb-a8af-d80c15efbd05",
+    "campaignName": "el ocaso de los malditos",
+    "points": 610,
+    "regiments": [
+      {
+        "hero": {
+          "id": "df01-5aa1-a502-7a0c",
+          "name": "Lord Kroak",
+          "points": 410,
+          "hero": true,
+          "unique": true,
+          "categories": [
+            "UNIQUE",
+            "HERO",
+            "FLY",
+            "WARMASTER",
+            "ORDER",
+            "WIZARD (3)",
+            "WARD (4+)",
+            "SERAPHON",
+            "SLANN"
+          ]
+        },
+        "units": [
+          {
+            "id": "9544-33d8-1d69-2be9",
+            "name": "Kroxigor",
+            "points": 200,
+            "hero": false,
+            "unique": false,
+            "categories": [
+              "INFANTRY",
+              "ORDER",
+              "SERAPHON",
+              "KROXIGOR"
+            ],
+            "reinforced": false
+          }
+        ]
+      }
+    ]
   }
 ]
